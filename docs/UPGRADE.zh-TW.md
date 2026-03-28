@@ -51,4 +51,4 @@ kubectl apply -f https://raw.githubusercontent.com/argoproj/argo-events/stable/m
 
 ---
 
-如需企業級部署指導（多租戶隔離、RBAC、稽核日誌、憑證輪換），請聯繫：[HAN LIN](https://github.com/silver2dream)
+如需企業級部署指導（多租戶隔離、RBAC、稽核日誌、憑證輪換），請聯繫：[Lotus Lin](https://github.com/lotuslin9699)

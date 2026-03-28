@@ -82,7 +82,7 @@ elif [ -f "./Makefile.telegram" ] && [ -f "./config.example.telegram.env" ]; the
 else
   if command -v git &>/dev/null; then
     info "Cloning claude-agent-farm..."
-    git clone https://github.com/silver2dream/claude-agent-farm.git
+    git clone https://github.com/lotuslin9699/MatchRPG-Claude-Agent-Farm.git
     cd claude-agent-farm
   else
     error "git is not installed. Run: sudo apt install git"

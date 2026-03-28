@@ -156,7 +156,7 @@ You'll also need:
 ### Step 5: Run the setup
 
 ```bash
-git clone https://github.com/silver2dream/claude-agent-farm.git
+git clone https://github.com/lotuslin9699/MatchRPG-Claude-Agent-Farm.git
 cd claude-agent-farm
 
 # Discord
@@ -320,5 +320,5 @@ Apache License 2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE).
 ---
 
 <p align="center">
-  <sub>Architecture by <a href="https://github.com/silver2dream">HAN LIN</a> · Built for developers who want AI agents on their own terms.</sub>
+  <sub>Architecture by <a href="https://github.com/lotuslin9699">Lotus Lin</a> · Built for developers who want AI agents on their own terms.</sub>
 </p>

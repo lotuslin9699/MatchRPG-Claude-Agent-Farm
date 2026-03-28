@@ -156,7 +156,7 @@ docker run hello-world   # 应该显示 "Hello from Docker!"
 ### 第 5 步：运行安装脚本
 
 ```bash
-git clone https://github.com/silver2dream/claude-agent-farm.git
+git clone https://github.com/lotuslin9699/MatchRPG-Claude-Agent-Farm.git
 cd claude-agent-farm
 
 # Discord
@@ -320,5 +320,5 @@ Apache License 2.0 — 详见 [LICENSE](LICENSE) 和 [NOTICE](NOTICE)。
 ---
 
 <p align="center">
-  <sub>架构设计 <a href="https://github.com/silver2dream">HAN LIN</a> · 为希望按自己方式使用 AI 智能体的开发者而构建。</sub>
+  <sub>架构设计 <a href="https://github.com/lotuslin9699">Lotus Lin</a> · 为希望按自己方式使用 AI 智能体的开发者而构建。</sub>
 </p>

@@ -1,11 +1,11 @@
 Claude Agent Farm
-Copyright 2026 HAN LIN (https://github.com/silver2dream)
+Copyright 2026 Lotus Lin (https://github.com/lotuslin9699)
 
-This product includes software developed by HAN LIN.
+This product includes software developed by Lotus Lin.
 
-Project:  https://github.com/silver2dream/claude-agent-farm
-Author:   HAN LIN
-Contact:  https://github.com/silver2dream
+Project:  https://github.com/lotuslin9699/MatchRPG-Claude-Agent-Farm
+Author:   Lotus Lin
+Contact:  https://github.com/lotuslin9699
 
 ---
 
@@ -16,4 +16,4 @@ This project uses the following third-party components:
 - Kubernetes (https://kubernetes.io) — Apache License 2.0
 
 For enterprise deployment, security hardening, and consulting services,
-visit: https://github.com/silver2dream
+visit: https://github.com/lotuslin9699

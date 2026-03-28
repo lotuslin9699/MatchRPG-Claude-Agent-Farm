@@ -49,4 +49,4 @@ kubectl apply -f https://raw.githubusercontent.com/argoproj/argo-events/stable/m
 
 ---
 
-For enterprise deployment guidance (multi-tenant isolation, RBAC, audit logging, credential rotation), contact: [HAN LIN](https://github.com/silver2dream)
+For enterprise deployment guidance (multi-tenant isolation, RBAC, audit logging, credential rotation), contact: [Lotus Lin](https://github.com/lotuslin9699)
